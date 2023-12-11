@@ -5,10 +5,7 @@ The CloudBackend SDK is a tool for application developers that provides a simple
 
 To learn more about the SDK, see developer documentation links via:
 https://cloudbackend.com/
-------------------------------------------------------------------------
-# Installation
-- [Reference](db.cloudbackend.com/docs.html)
-------------------------------------------------------------------------
+
 ### Dashboard
 Login to the dashboard at
 https://db.cloudbackend.com/
@@ -28,6 +25,5 @@ so it is advisable to create a container to work in and not upload anything priv
 The test account have some limitations. To get your own tenant account see
 https://cloudbackend.com/developer.html#how
 
-Tenant a.k.a. signup source
 ------------------------------------------------------------------------
 #### Copyright © CloudBackend AB 2020-2023.
