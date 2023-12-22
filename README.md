@@ -1,6 +1,6 @@
 ![version](https://badgen.net/badge/version/2.1.1/green)
 ![languages](https://badgen.net/badge/language/iOS/purple?list=|)
-# CloudBackendSDK - iOS v1.0.1
+# CloudBackendSDK - iOS v2.1.1
 The CloudBackend SDK is a tool for application developers that provides a simple way to store data in the cloud.
 
 To learn more about the SDK, see developer documentation links via:
